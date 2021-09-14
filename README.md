@@ -1,2 +1,2 @@
 # Bootstrap_Cards
-A website using Bootstrap Cards
+A simple website created using Bootstrap Cards.
